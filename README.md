@@ -1,2 +1,2 @@
 # outlook
-show page
+记录本
