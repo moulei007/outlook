@@ -5,6 +5,8 @@
 迁移学习方面，我一直是跟着一位大牛的GitHub来学习的：[jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
 ## 超像素分割
 ### 有关超像素分割方面的论文
+> 总览
+![](C:\Users\M&L\Downloads\505bf689499d7457c386100ccd8b6136_r.jpg)
 - **SLIC Superpixels Compared to State-of-the-Art Superpixel Methods**：超像素分割算法SLIC[论文链接(百度云)](https://pan.baidu.com/s/1i7jDzRB)
 - **Robust Urban Road Image Segmentation**:[百度云](https://pan.baidu.com/s/1nwUCkS5)
   * 将超像素场景分割与道路场景纹理和结构信息的分类相结合，探索了从单个图像中检测道路的方法，通过对道路纹理信息进行大规模的处理，在小尺度上对道路的结构信息进行处理，并通过场景分割获取道路边缘的准确信息。
