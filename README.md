@@ -14,4 +14,5 @@
   * 在原始图像上进行预处理，利用伽玛归一化，使强度值在一个特定的范围内，伽马归一化有助于增强图像的细节性，然后对伽马归一化图像进行分割，分割是通过超像素方法进行的。
 - **Segmentation of large images based on super-pixels and community detection in graphs**：[百度云](https://pan.baidu.com/s/1kXlBnDX)
   * 基于超像素分割算法对大图片进行预分割。
-### 相关代码正在准备...
+### 相关代码
+- [SLIC(Python 实现)](https://github.com/moulei007/CodeHub/tree/master/SLIC_python)
